@@ -10,6 +10,8 @@ This project is an image classifier specifically designed to identify different 
 
 - Download the openai_key.txt for OpenAI from the provided text file and upload it to the appropriate location in the project. This key is necessary to utilize the OpenAI API for text generation.
 
+- Download the testimages
+
 ## Usage
 
 Open the Jupyter Notebook and click threw code.
